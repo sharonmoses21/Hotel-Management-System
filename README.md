@@ -1,2 +1,5 @@
 # Hotel-Management-System
-The system is a hotel booking system to be completed by using C programming and use text files as the back-end database. 
+The system is a hotel booking system to be completed by using C programming and use text files as the back-end database. The main purpose of this system is to simulate room booking in a week for a small hotel with only two floors with each floor consist of 5 rooms. Assume there is only one room can be booked by a customer at a time. 
+
+The system will consist of different functionalities such as Displaying all rooms as shown in the above table to the customer, allow customers to book a room of their choice depending on the availability of the day, and when the room is being booked the system will record a few customer details such as customer name, IC/Passport, contact number, email, room id, days of stay etc. Also, the system will allow a customer to search a booking details and the customer to also update booking details, View receipt after each booking which consist of details of customer, booked room and total charges including taxes. - taxes imposed are service tax (10% of total room charges) plus tourism tax (RM10 per night).
+
